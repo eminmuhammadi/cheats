@@ -1,0 +1,12 @@
+src/__pycache__
+drivers/__pycache__
+__pycache__
+build/
+*
+!dist/
+!*.py
+!*.txt
+!*.md
+!.gitignore
+*.spec
+!*.exe
