@@ -16,5 +16,5 @@ pyarmor obfuscate foo.py
 
 ## Build
 ```
-pyarmor pack --clean -e "--onefile " foo.py
+pyarmor pack --clean -e "--onefile --windowed" foo.py
 ```

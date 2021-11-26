@@ -8,5 +8,10 @@ build/
 !*.txt
 !*.md
 !.gitignore
+!*.sha256
 *.spec
 !*.exe
+!drivers/
+!src/
+!gui/
+!_build.sh
