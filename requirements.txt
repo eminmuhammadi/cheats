@@ -1,5 +1,5 @@
 d3dshot==0.1.5
 keyboard==0.13.5
-numpy==1.20.3
+numpy==1.22.0
 PyAutoGUI==0.9.53
 PyQt6==6.2.1
